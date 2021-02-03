@@ -1,5 +1,10 @@
 # Session 1 | 3 February 2021
 
+## Learning Targets
+- I can develop an app with Next.js.
+- I can collaborate on an app via GitHub.
+- I can use CSS to make pages look like I want them to look.
+
 ## Agenda
 - Welcome & Introductions
 - Review ```react-router-dom``` in [Example App from previous dev course](https://github.com/workshop-maybe/dev-course-001-example-app)
