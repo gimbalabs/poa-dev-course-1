@@ -7,7 +7,7 @@
 - Setting up routes in Next.js
 - Collaborating via GitHub
 - Using CSS in Next.js
-- Styling Contest!
+- Styling Contest (Josh is required to participate!)
 
 ## Links
 - [Free Code Camp](https://www.freecodecamp.org/learn/): look at Responsive Web Design -> CSS Lessons
