@@ -1,36 +1,20 @@
-# Session 1 | 3 February 2021
+# Session 2 | 5 February 2021
 
 ## Learning Targets
+Same as Session 1 - today we'll go a little deeper into each.
 - I can develop an app with Next.js.
 - I can collaborate on an app via GitHub.
 - I can use CSS to make pages look like I want them to look.
 
 ## Agenda
-- Welcome & Introductions
-- Review ```react-router-dom``` in [Example App from previous dev course](https://github.com/workshop-maybe/dev-course-001-example-app)
-- Start a new project with [Next.js](https://nextjs.org/)
-- Setting up routes in Next.js
-- Collaborating via GitHub
-- Using CSS in Next.js
-- Styling Contest (Josh is required to participate!)
+- Review CSS Styling Results
+- How can we create a list of links when we're not sure how many files we have?
+  - ```getStaticProps```
 
-## Links
-- [Free Code Camp](https://www.freecodecamp.org/learn/): look at Responsive Web Design -> CSS Lessons
-- Go deep into [Mozilla's CSS Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- Depending on how much time you have, it can be fun to search YouTube for "CSS Tips" and see what people are doing.
+## Next Steps
+Before our next meeting is on 10 February 2021:
+1. Install [GitHub CLI](https://cli.github.com/)
+2. Create your About page
 
-## Sample Code
-```
-import styles from '../styles/[your name].module.css'
-
-export default function [your name]() {
-  return (
-    <div>
-      <div class="shape">make me a different shape</div>
-      <div class="movement">animate me</div>
-      <div class="shadow">add shadows to me</div>
-      <div class="text">change this text to your name, then decorate it</div>
-    </div>
-  )
-}
-```
+## Background Reading:
+- Before our after Session 2, try working through the [Next.js Tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
