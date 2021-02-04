@@ -14,6 +14,7 @@ Same as Session 1 - today we'll go a little deeper into each.
 ## Next Steps
 Before our next meeting is on 10 February 2021:
 1. Install [GitHub CLI](https://cli.github.com/)
+  - [Quick video](https://youtu.be/vcAIZ4axYZU)
 2. Create your About page
 
 ## Background Reading:
