@@ -1,5 +1,5 @@
 {
-    "devs" : [
+    "devs" : {
       "1" : {
         "username"  : "FayVik",
         "location"  : "POA",
@@ -20,7 +20,7 @@
         "location"  : "Workshop Maybe",
         "goals"     : ["Learn how to use blockchain in Web Apps", "Figure out how to make code make sense"]
       }
-    ],
+    },
     "coursename" : "POA Dev Course 1",
     "date" : "February 2021"
 }
