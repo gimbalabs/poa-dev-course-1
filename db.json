@@ -1,21 +1,21 @@
 {
     "devs" : [
-      1 : {
+      "1" : {
         "username"  : "FayVik",
         "location"  : "POA",
         "goals"     : ["Build on Cardano", "Gain knowledge of Next.js", "Teach more devs!"]
       },
-      2 : {
+      "2" : {
         "username"  : "g-prog",
         "location"  : "POA",
         "goals"     : ["Gain understanding of Next.js", "Figure out how JavaScript works"]
       },
-      3 : {
+      "3" : {
         "username"  : "jsierrax",
         "location"  : "East Coast, US",
         "goals"     : ["Gain understanding of Next.js", "Figure out how JavaScript works"]
       },
-      4 : {
+      "4" : {
         "username"  : "workshop-maybe",
         "location"  : "Workshop Maybe",
         "goals"     : ["Learn how to use blockchain in Web Apps", "Figure out how to make code make sense"]
