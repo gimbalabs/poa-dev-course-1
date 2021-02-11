@@ -1,25 +1,25 @@
 {
     "devs" : [
       {
-        "id"        : 1,
+        "id"        : '1',
         "username"  : "FayVik",
         "location"  : "POA",
         "goals"     : ["Build on Cardano", "Gain knowledge of Next.js", "Teach more devs!"]
       },
       {
-        "id"        : 2,
+        "id"        : '2',
         "username"  : "g-prog",
         "location"  : "POA",
         "goals"     : ["Gain understanding of Next.js", "Figure out how JavaScript works"]
       },
       {
-        "id"        : 3,
+        "id"        : '3',
         "username"  : "jsierrax",
         "location"  : "East Coast, US",
         "goals"     : ["Gain understanding of Next.js", "Figure out how JavaScript works"]
       },
       {
-        "id"        : 4,
+        "id"        : '4',
         "username"  : "workshop-maybe",
         "location"  : "Workshop Maybe",
         "goals"     : ["Learn how to use blockchain in Web Apps", "Figure out how to make code make sense"]
