@@ -5,6 +5,7 @@
 - I can create dynamic routes with Next.js
 
 ## Agenda
+- Navigating a project on GitHub
 - Installing GitHub CLI
 - ```gh issue```, ```git branch```, and ```git checkout```
 - Let's add some data to ```devs.json```
