@@ -1,7 +1,7 @@
 # Gimbalabs x POA Dev Course 1
 
-Live meeting link: https://meet.jit.si/poa-dev-course
-We are working on this project together: https://github.com/GimbaLabs/poa-style-competition/
+- Live meeting link: https://meet.jit.si/poa-dev-course
+- We are working on this project together: https://github.com/GimbaLabs/poa-style-competition/
 
 ## Course Outline
 - Session 1 (2021-02-03) | [Agenda](https://github.com/GimbaLabs/poa-dev-course-1/blob/main/session-01.md) | [Video on YouTube](https://youtu.be/SdKnynfCjKg)
