@@ -7,7 +7,7 @@
 ## Agenda
 - Installing GitHub CLI
 - ```gh issue```, ```git branch```, and ```git checkout```
-- Let's add some data to devs.json
+- Let's add some data to ```devs.json```
 - Add styles to list of developers (review)
 - Creating a dynamic list of developers (review)
 - Creating dynamic routes (this part is brand new)
