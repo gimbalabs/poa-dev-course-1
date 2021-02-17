@@ -11,6 +11,9 @@
 
 ## Next Steps
 Before our next meeting on 19 February 2021:
+
+Try to authenticate by creating a personal access token on GitHub: https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token
+
 1. Install GitHub CLI
 2. Create an Issue called ```"Style the developer pages"```
 3. Create a ```branch``` and use ```git checkout [branchname]``` to work on it
