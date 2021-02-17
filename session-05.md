@@ -19,3 +19,9 @@ Try to authenticate by creating a personal access token on GitHub: https://docs.
 3. Create a ```branch``` and use ```git checkout [branchname]``` to work on it
 4. Add styles to ```developers/index.js``` and to ```developers/[id].js```
 5. Push your new branch to ```https://github.com/gimbalabs/poa-style-competition```
+
+
+
+
+James will ask Kyle about winget errors
+Buky - send screenshots of errors so we can look at these together
