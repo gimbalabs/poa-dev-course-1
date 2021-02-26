@@ -5,6 +5,7 @@
 - I can view metadata through a dynamically rendered web page.
 
 ## Agenda
+- On Wednesday, we looked at [LIFT Wallet](https://github.com/CodingOnChain/lift-wallet/releases/tag/0.2.0), and started sending transactions on Testnet.
 - What does a `.json` file with metadata look like?
 - What can we do with that data?
 - Challenge: send a transaction that makes data appear on this page.
